@@ -2,6 +2,7 @@
 #include <system_error>
 #include <string>
 #include <memory>
+#include <functional>
 
 #include "asio.hpp"
 
